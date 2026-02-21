@@ -10,11 +10,11 @@ This project demonstrates a full data analytics workflow, including data loading
 
 ## Tools & Technologies
 - **Python** – Data loading, cleaning, and EDA
-- **Pandas / NumPy / Matplotlib / Seaborn** – Data manipulation and visualization
-- **SQL** – Queries on PostgreSQL, MySQL, or SQL Server
+- **Pandas** – Data manipulation and visualization
+- **SQL** – Queries on MySQL
 - **Power BI** – Interactive dashboard creation
 - **Gamma** – Professional presentation creation
-- **Jupyter Notebook / VS Code** – Development environment
+- **Jupyter Notebook** – Development environment
 
 ## Workflow
 1. **Load Data**  
@@ -32,7 +32,7 @@ This project demonstrates a full data analytics workflow, including data loading
    - Remove duplicates and outliers  
 
 4. **SQL Analysis**  
-   - Load data into PostgreSQL/MySQL/SQL Server  
+   - Load data into MySQL 
    - Perform queries for aggregation and summarization  
    - Extract key insights for analysis  
 
